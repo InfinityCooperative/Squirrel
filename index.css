@@ -3,7 +3,11 @@ body{
     text-align: center;
 }
 .cabecalho{
-    background-color: orange;
+    background:url(imagens/setas.png) center  center no-repeat fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
     border-width: 0.7px;
     border-style: solid;
     border-color: #000;
@@ -15,7 +19,11 @@ body{
     position: relative;
     height: 200px;
 }.rodape{
-    background-color: orange;
+    background:url(imagens/setas.png) center  center no-repeat fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
     border-radius: 5px;
     border-width: 0.7px;
     border-style: solid;
