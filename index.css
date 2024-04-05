@@ -3,7 +3,7 @@ body{
     text-align: center;
 }
 .cabecalho{
-    background:url(imagens/setas.png) center  center no-repeat fixed;
+    background:url(imagens/Fundo squirrel.png) center  center no-repeat fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -29,7 +29,7 @@ body{
     position: relative;
     height: 200px;
 }.rodape{
-    background:url(imagens/setas.png) center  center no-repeat fixed;
+    background:url(imagens/Fundo squirrel.png) center  center no-repeat fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
