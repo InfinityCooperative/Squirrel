@@ -28,7 +28,8 @@ body{
     margin-top: 0px;
     position: relative;
     height: 200px;
-}.rodape{
+}
+.rodape{
     background:url(imagens/Fundo squirrel.png) center  center no-repeat fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
