@@ -30,14 +30,15 @@ body{
     height: 200px;
 }
 .rodape{
-    background:url(imagens/Fundo transita.png) center  center no-repeat fixed;
+     background:url(imagens/textura.png) center  center no-repeat fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-    border-radius: 5px;
     border-width: 0.7px;
-    border-color:000#;
+    border-style: solid;
+    border-color: #000;
+    border-radius: 5px;
     height: auto;
 }
 .imagem{
