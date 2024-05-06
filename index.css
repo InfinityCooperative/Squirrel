@@ -2,7 +2,7 @@ body{
     background-color: rgb(218, 241, 236);
     text-align: center;
 }
-.cabeçalho{
+.cabecalho{
      background:url(imagens/textura.png) center  center no-repeat fixed;
     --webkit-background-size: cover;
     -moz-background-size: cover;
