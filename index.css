@@ -2,8 +2,8 @@ body{
     background-color: rgb(218, 241, 236);
     text-align: center;
 }
-.cabecalho{
-    background:url(imagens/Fundo transita.png) center  center no-repeat fixed;
+.cabeçalho{
+     background:url(imagens/Fundo transita.png) center  center no-repeat fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
