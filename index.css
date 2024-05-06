@@ -9,8 +9,6 @@ body{
     -o-background-size: cover;
     background-size: cover;
     border-width: 0.7px;
-    border-style: solid;
-    border-color: #000;
     border-radius: 5px;
     height: auto;
 }
@@ -37,8 +35,6 @@ body{
     background-size: cover;
     border-radius: 5px;
     border-width: 0.7px;
-    border-style: solid;
-    border-color: #000;
     height: auto;
 }
 .imagem{
