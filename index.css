@@ -3,8 +3,8 @@ body{
     text-align: center;
 }
 .cabecalho{
-     background:url(imagens/textura.png) center  center no-repeat fixed;
-    --webkit-background-size: cover;
+     background:url(imagens/Fundo transita.png) center  center no-repeat fixed;
+    -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
@@ -30,7 +30,7 @@ body{
     height: 200px;
 }
 .rodape{
-     background:url(imagens/textura.png) center  center no-repeat fixed;
+     background:url(imagens/Fundo transita.png) center  center no-repeat fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
