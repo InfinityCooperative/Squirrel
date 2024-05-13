@@ -3,6 +3,7 @@ body{
     text-align: center;
 }
 .cabecalho{
+    margin: -10px -7px 0px -8px;
      background:url(imagens/transita.avif) center  center no-repeat fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -11,7 +12,6 @@ body{
     border-width: 0.7px;
     border-style: solid;
     border-color: #000;
-    border-radius: 5px;
     height: auto;
 }
 .voltar{
@@ -30,6 +30,7 @@ body{
     height: 200px;
 }
 .rodape{
+    margin: 0px -7px -11px -8px;
      background:url(imagens/transita.avif) center  center no-repeat fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -38,7 +39,6 @@ body{
     border-width: 0.7px;
     border-style: solid;
     border-color: #000;
-    border-radius: 5px;
     height: auto;
 }
 .imagem{
